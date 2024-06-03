@@ -2,7 +2,7 @@ PowerBI Analytics & Insight
 
 Objetivo:
 
-•	Cree un panel utilizando una herramienta de visualización de datos, en uno de los siguientes reproductores: MS Power BI, Tableau o Looker. Como alcance se debe analizar la evolución, crecimiento de internet, usuarios, suscriptores, etc. en Argentina y sus causas.
+•	Cree un panel utilizando la herramienta de visualización de datos, MS Power BI. Como alcance se debe analizar la evolución, crecimiento de internet, usuarios, suscriptores, etc. en Argentina y sus causas.
 
 Fuente de Datos:
 
